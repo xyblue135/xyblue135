@@ -20,6 +20,8 @@
 <h1>技术栈</h1>
 
 <div class="badges">
+    <!-- Docker -->
+    <img alt="Docker Badge" src="https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=Docker&logoColor=white">
     <!-- Kubernetes -->
     <img alt="Kubernetes Badge" src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=flat-square&logo=Kubernetes&logoColor=white">
     
