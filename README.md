@@ -3,12 +3,7 @@
 <head>
     <meta charset="UTF-8">
 </head>
-<body>
-    <div style="display: flex; justify-content: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyblue135&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
-</div>
 <h1>技术栈</h1>
-
 <div class="badges">
     <!-- Docker -->
     <img alt="Docker Badge" src="https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=Docker&logoColor=white">
@@ -103,7 +98,4 @@
     <!-- Deployves (假设为自定义徽标) -->
     <img alt="Deployves Badge" src="https://img.shields.io/badge/Deployves-%230078D4?style=flat-square&logo=custom&logoColor=white">
 </div>
-
-<hr>
-</body>
 </html>
