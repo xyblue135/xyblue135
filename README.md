@@ -2,16 +2,6 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>技术栈徽标</title>
-    <style>
-        .badges {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .badges img {
-            margin: 5px;
-        }
-    </style>
 </head>
 <body>
     <div style="display: flex; justify-content: flex-start;">
