@@ -8,9 +8,8 @@
 除了学习电脑知识之外，我还我喜欢：打羽毛球、研究电路、看科幻电影、关注前沿知识...
 <h1>个人可见知识库</h1>
 <div class="container">
-    <h1>注意：此链接仅支持IPv6及非代理环境访问</h1>
     <p>点击下方按钮前往：<strong>xyblue.asia:4001</strong></p>
-    <a href="http://xyblue.asia:4001" target="_blank">访问 xyblue.asia:4001</a>
+    <a href="http://xyblue.asia:4001" target="_blank">访问 xyblue.asia:4001 注意：此链接仅支持IPv6及非代理环境访问</a>
 </div>
 <h1>技术栈</h1>
 <div class="badges">
