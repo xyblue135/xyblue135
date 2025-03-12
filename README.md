@@ -114,15 +114,6 @@
     <img alt="Deployves Badge" src="https://img.shields.io/badge/Deployves-%230078D4?style=flat-square&logo=custom&logoColor=white">
 </div>
 
-="contact-links">
-    <!-- 哔哩哔哩链接 -->
-    <a href="https://space.bilibili.com/185742654?spm_id_from=333.788.0.0" target="_blank">哔哩哔哩个人空间</a>
-
-    <!-- Gmail 邮件链接 -->
-    <a href="mailto:xyblue135@gmail.com">发送邮件到 xyblue135@gmail.com</a>
-</div>
-
-
 <hr>
 </body>
 </html>
