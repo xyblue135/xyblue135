@@ -2,6 +2,16 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
+    <title>技术栈徽标</title>
+    <style>
+        .badges {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .badges img {
+            margin: 5px;
+        }
+    </style>
 </head>
 <body>
     <div align="center">
@@ -103,6 +113,15 @@
     <!-- Deployves (假设为自定义徽标) -->
     <img alt="Deployves Badge" src="https://img.shields.io/badge/Deployves-%230078D4?style=flat-square&logo=custom&logoColor=white">
 </div>
+
+="contact-links">
+    <!-- 哔哩哔哩链接 -->
+    <a href="https://space.bilibili.com/185742654?spm_id_from=333.788.0.0" target="_blank">哔哩哔哩个人空间</a>
+
+    <!-- Gmail 邮件链接 -->
+    <a href="mailto:xyblue135@gmail.com">发送邮件到 xyblue135@gmail.com</a>
+</div>
+
 
 <hr>
 </body>
