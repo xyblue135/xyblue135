@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
 </head>
+<h1>介绍</h1>
+    I'm xyblue, 一个喜欢折腾各种硬件和维护个人服务器的站长。我目前的重点是Linux，学习各种高可用的服务架构和模型。
+除了学习电脑知识之外，我还我喜欢：打羽毛球、研究电路、看科幻电影、关注前沿知识...
 <h1>技术栈</h1>
 <div class="badges">
     <!-- Docker -->
@@ -98,4 +101,9 @@
     <!-- Deployves (假设为自定义徽标) -->
     <img alt="Deployves Badge" src="https://img.shields.io/badge/Deployves-%230078D4?style=flat-square&logo=custom&logoColor=white">
 </div>
+<body>
+    <div style="display: flex; justify-content: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyblue135&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+</div>
+    
 </html>
