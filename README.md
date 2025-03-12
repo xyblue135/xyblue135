@@ -14,6 +14,9 @@
     </style>
 </head>
 <body>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyblue135&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+      </div>
 <h1>技术栈</h1>
 
 <div class="badges">
