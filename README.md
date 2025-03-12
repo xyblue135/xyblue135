@@ -13,4 +13,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23c66394?style=flat-square&logo=Sass&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
+  <img alt="Docker Badge" src="https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=Docker&logoColor=white">
+  <img alt="Kubernetes Badge" src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=flat-square&logo=Kubernetes&logoColor=white">
 </span>
