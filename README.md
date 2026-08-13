@@ -6,6 +6,7 @@ I'm xyblue, 一个喜欢折腾各种硬件和维护个人服务器的站长。
 # 🚀 Open Source Contributions
 
 ### [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) · Contributor
+[![GitHub stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=flat-square&logo=github&label=Stars)](https://github.com/tashfeenahmed/freellmapi/stargazers)
 
 Contributing to [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
