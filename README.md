@@ -1,169 +1,135 @@
-# 👋 介绍
+<div align="center">
 
-I'm xyblue, 一个喜欢折腾各种硬件和维护个人服务器的站长。  
-目前主要关注 Linux、云原生、DevOps、高可用服务架构以及 AI / LLM 相关技术。
+# 👋 Hi, I'm xyblue
 
-# 🚀 Open Source Contributions
+**Developer · Homelab Enthusiast · DevOps · AI / LLM**
 
-### [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) · Contributor
-[![GitHub stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=flat-square&logo=github&label=Stars)](https://github.com/tashfeenahmed/freellmapi/stargazers)
+喜欢折腾硬件、开源项目和个人服务器。  
+专注于 **Linux / Cloud Native / DevOps / High Availability / AI & LLM**。
 
-Contributing to [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
-
-**Merged Contribution**
-
-- [PR #845](https://github.com/tashfeenahmed/freellmapi/pull/845) — Fixed real token usage reporting for OpenAI-compatible streaming responses.
-- Added `stream_options.include_usage` support.
-- Improved upstream usage tracking for analytics & rate limiting.
-- Added fallback handling and end-to-end tests.
-
-`OpenAI API` · `Streaming` · `LLM Gateway` · `TypeScript` · `Open Source`
+</div>
 
 ---
 
-# 🛠️ 技术栈
+## 🚀 About Me
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyblue135&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+- 🖥️ 喜欢折腾 **Homelab、服务器、网络与硬件**
+- 🐧 长期使用和研究 **Linux / Docker / Kubernetes**
+- ☁️ 关注 **Cloud Native、DevOps、高可用架构与自动化运维**
+- 🤖 探索 **AI / LLM、本地推理、ONNX 与 RAG**
+- 📱 对 **Android、ADB、scrcpy、低延迟投屏与键鼠映射** 等方向感兴趣
+- 🛠️ 喜欢把自己的实际需求做成真正能用的工具和开源项目
+
+---
+
+## 🔭 Current Focus
+
+```text
+Cloud Native   → Docker · Kubernetes · Nginx · CI/CD
+Observability  → Prometheus · Grafana · Zabbix
+Backend        → Python · Rust · Java · Spring Boot
+AI / LLM       → LLM API · Local AI · ONNX · RAG
+Android        → ADB · scrcpy · Android Tools
+Homelab        → Linux · Networking · Virtualization
+```
+
+---
+
+## 📌 Featured Projects
+
+### 📝 git-commit-obsidian-notes
+
+使用 Git 对个人 Obsidian 知识库进行持续版本管理、备份与提交记录维护。
+
+[![Repo](https://img.shields.io/badge/GitHub-git--commit--obsidian--notes-181717?style=flat-square&logo=github)](https://github.com/xyblue135/git-commit-obsidian-notes)
+
+---
+
+### 📱 scrcpy-mask-enhanced-xyblue
+
+面向 Windows / Android 的低延迟投屏、虚拟显示与键鼠映射增强项目。
+
+[![Repo](https://img.shields.io/badge/GitHub-scrcpy--mask--enhanced--xyblue-181717?style=flat-square&logo=github)](https://github.com/xyblue135/scrcpy-mask-enhanced-xyblue)
+
+---
+
+## 🌍 Open Source Contributions
+
+### FreeLLMAPI · Contributor
+
+Contributing to  
+[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+
+**Merged Contribution**
+
+- [PR #845](https://github.com/tashfeenahmed/freellmapi/pull/845)
+- Fixed real token usage reporting for OpenAI-compatible streaming responses
+- Added `stream_options.include_usage`
+- Improved upstream usage tracking
+- Added fallback handling and end-to-end tests
+
+`OpenAI API` · `Streaming` · `LLM Gateway` · `TypeScript`
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xyblue135&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyblue135&layout=compact&langs_count=8&hide_border=true" />
+
 </div>
 
-<br>
+### Contribution Activity
 
-<div class="badges">
+<div align="center">
 
-<!-- Docker -->
-<img alt="Docker Badge" src="https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=Docker&logoColor=white">
+[![xyblue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xyblue135&theme=github-compact&hide_border=true)](https://github.com/xyblue135)
 
-<!-- Kubernetes -->
-<img alt="Kubernetes Badge" src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=flat-square&logo=Kubernetes&logoColor=white">
+</div>
 
-<!-- Python -->
-<img alt="Python Badge" src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white">
+---
 
-<!-- Shell Script -->
-<img alt="Shell Script Badge" src="https://img.shields.io/badge/Shell_Script-%23121011?style=flat-square&logo=gnu-bash&logoColor=white">
+## 🛠️ Tech Stack
 
-<!-- Git -->
-<img alt="Git Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+### Languages
 
-<!-- Android ADB -->
-<img alt="Android ADB Badge" src="https://img.shields.io/badge/ADB-%23A4C639?style=flat-square&logo=android&logoColor=white">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<!-- Ansible -->
-<img alt="Ansible Badge" src="https://img.shields.io/badge/Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=white">
+### DevOps & Cloud Native
 
-<!-- Jenkins -->
-<img alt="Jenkins Badge" src="https://img.shields.io/badge/Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=white">
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<!-- Zabbix -->
-<img alt="Zabbix Badge" src="https://img.shields.io/badge/Zabbix-%23E37B1B?style=flat-square&logo=zabbix&logoColor=white">
+### Observability & Infrastructure
 
-<!-- Prometheus -->
-<img alt="Prometheus Badge" src="https://img.shields.io/badge/Prometheus-%23E6522C?style=flat-square&logo=prometheus&logoColor=white">
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<!-- Grafana -->
-<img alt="Grafana Badge" src="https://img.shields.io/badge/Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=white">
+### Tools & Platforms
 
-<!-- Alertmanager -->
-<img alt="Alertmanager Badge" src="https://img.shields.io/badge/Alertmanager-%23D3493C?style=flat-square&logo=alertmanager&logoColor=white">
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
-<!-- Pushgateway -->
-<img alt="Pushgateway Badge" src="https://img.shields.io/badge/Pushgateway-%23D3493C?style=flat-square&logo=prometheus&logoColor=white">
+---
 
-<!-- GitLab -->
-<img alt="GitLab Badge" src="https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+<div align="center">
 
-<!-- Wireshark -->
-<img alt="Wireshark Badge" src="https://img.shields.io/badge/Wireshark-%2300B7EB?style=flat-square&logo=wireshark&logoColor=white">
-
-<!-- Tcpdump -->
-<img alt="Tcpdump Badge" src="https://img.shields.io/badge/Tcpdump-%2300B7EB?style=flat-square&logo=tcpdump&logoColor=white">
-
-<!-- Nmap -->
-<img alt="Nmap Badge" src="https://img.shields.io/badge/Nmap-%23FF0000?style=flat-square&logo=nmap&logoColor=white">
-
-<!-- OpenVPN -->
-<img alt="OpenVPN Badge" src="https://img.shields.io/badge/OpenVPN-%238DC351?style=flat-square&logo=openvpn&logoColor=white">
-
-<!-- WireGuard -->
-<img alt="WireGuard Badge" src="https://img.shields.io/badge/WireGuard-%238DC351?style=flat-square&logo=wireguard&logoColor=white">
-
-<!-- FTP -->
-<img alt="FTP Badge" src="https://img.shields.io/badge/FTP-%23000000?style=flat-square&logo=ftp&logoColor=white">
-
-<!-- SMB -->
-<img alt="SMB Badge" src="https://img.shields.io/badge/SMB-%230078D4?style=flat-square&logo=microsoft&logoColor=white">
-
-<!-- FRP -->
-<img alt="FRP Badge" src="https://img.shields.io/badge/FRP-%230078D4?style=flat-square&logo=frp&logoColor=white">
-
-<!-- NGINX -->
-<img alt="NGINX Badge" src="https://img.shields.io/badge/NGINX-%23009639?style=flat-square&logo=nginx&logoColor=white">
-
-<!-- Apache -->
-<img alt="Apache Badge" src="https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=apache&logoColor=white">
-
-<!-- Tomcat -->
-<img alt="Tomcat Badge" src="https://img.shields.io/badge/Tomcat-%23F88017?style=flat-square&logo=apache-tomcat&logoColor=white">
-
-<!-- Postman -->
-<img alt="Postman Badge" src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white">
-
-<!-- Kafka -->
-<img alt="Kafka Badge" src="https://img.shields.io/badge/Kafka-%23231F20?style=flat-square&logo=apache-kafka&logoColor=white">
-
-<!-- Consul -->
-<img alt="Consul Badge" src="https://img.shields.io/badge/Consul-%232E3A59?style=flat-square&logo=consul&logoColor=white">
-
-<!-- MySQL -->
-<img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white">
-
-<!-- Redis -->
-<img alt="Redis Badge" src="https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white">
-
-<!-- RabbitMQ -->
-<img alt="RabbitMQ Badge" src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
-
-<!-- VMware -->
-<img alt="VMware Badge" src="https://img.shields.io/badge/VMware-%23231F20?style=flat-square&logo=vmware&logoColor=white">
-
-<!-- VirtualBox -->
-<img alt="VirtualBox Badge" src="https://img.shields.io/badge/VirtualBox-%23183642?style=flat-square&logo=virtualbox&logoColor=white">
-
-<!-- WSL -->
-<img alt="WSL Badge" src="https://img.shields.io/badge/WSL-%230078D4?style=flat-square&logo=microsoft&logoColor=white">
-
-<!-- Ventoy -->
-<img alt="Ventoy Badge" src="https://img.shields.io/badge/Ventoy-%230078D4?style=flat-square&logo=ventoy&logoColor=white">
-
-<!-- Windows 11 -->
-<img alt="Windows 11 Badge" src="https://img.shields.io/badge/Windows_11-%230078D4?style=flat-square&logo=windows&logoColor=white">
-
-<!-- Linux -->
-<img alt="Linux Badge" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black">
-
-<!-- Debian -->
-<img alt="Debian Badge" src="https://img.shields.io/badge/Debian-%23A81D33?style=flat-square&logo=debian&logoColor=white">
-
-<!-- Ubuntu -->
-<img alt="Ubuntu Badge" src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white">
-
-<!-- CentOS -->
-<img alt="CentOS Badge" src="https://img.shields.io/badge/CentOS-%23262577?style=flat-square&logo=centos&logoColor=white">
-
-<!-- Microsoft Office -->
-<img alt="Microsoft Office Badge" src="https://img.shields.io/badge/Microsoft_Office-%23D83B01?style=flat-square&logo=microsoft-office&logoColor=white">
-
-<!-- Rsync -->
-<img alt="Rsync Badge" src="https://img.shields.io/badge/Rsync-%230078D4?style=flat-square&logo=rsync&logoColor=white">
-
-<!-- PowerShell -->
-<img alt="PowerShell Badge" src="https://img.shields.io/badge/PowerShell-%235391FE?style=flat-square&logo=powershell&logoColor=white">
-
-<!-- Premiere Pro -->
-<img alt="Premiere Pro Badge" src="https://img.shields.io/badge/Premiere_Pro-%239999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white">
-
-<!-- After Effects -->
-<img alt="After Effects Badge" src="https://img.shields.io/badge/After_Effects-%239999FF?style=flat-square&logo=adobe-after-effects&logoColor=white">
+### Build things. Break things. Learn things.
 
 </div>
