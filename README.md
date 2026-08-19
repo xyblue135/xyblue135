@@ -72,16 +72,6 @@ Contributing to
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xyblue135&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyblue135&layout=compact&langs_count=8&hide_border=true" />
-
-</div>
-
 ### Contribution Activity
 
 <div align="center">
