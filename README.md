@@ -1,33 +1,12 @@
 <div align="center">
-
-# 你好，我是 xyblue 👋
-
-### DevOps / 云原生 / 后端开发 / AI 工程化
-
-**Linux · Docker · Kubernetes · Python · Rust · Java · AI / LLM**
-
-喜欢做真正能用的工具，优化开发与运维流程，把真实场景里的问题打磨成可长期维护的软件。
-
-求职方向：**DevOps / SRE / 云原生 / 后端开发 / AI 工程化**
-
 [![GitHub](https://img.shields.io/badge/GitHub-xyblue135-181717?style=flat-square&logo=github)](https://github.com/xyblue135)
-
 </div>
-
----
-
 ## 📊 GitHub 活跃度
-
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=xyblue135&show_icons=true&hide_border=true&include_all_commits=true" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyblue135&layout=compact&langs_count=8&hide_border=true" />
-
 </div>
-
 <div align="center">
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xyblue135&theme=github-compact&hide_border=true)](https://github.com/xyblue135)
 
 </div>
