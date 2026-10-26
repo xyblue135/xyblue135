@@ -3,6 +3,38 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyblue135&layout=compact&langs_count=8&hide_border=true&exclude_repo=BilibiliDownloader,xyblue135.github.io,OBS_index_html" />
 </div>
 
+<!--
+  ============================================================
+  top-langs 卡片 exclude_repo 说明（HTML 注释，页面不渲染，仅源码可见）
+  ============================================================
+
+  下面三个仓库被排除在语言统计之外，不是因为仓库有问题，
+  而是它们会让「Most Used Languages」的占比失真：
+
+  1) BilibiliDownloader
+     仓内含 ffmpeg-N-105436-g98cef1ebbe-win64-gpl-shared/doc/ 下 30 个官方文档 HTML，
+     合计 8.18 MB（ffmpeg-all 2.2MB、ffprobe-all 1.8MB、ffplay-all 1.8MB、ffmpeg-filters 1.2MB
+     为最大四个）。这些是 ffmpeg 发行包自带的离线手册，并非本人书写的代码，
+     但 GitHub Linguist 按字节统计会把它们计为 HTML，
+     导致 HTML 一度占到全部公开仓库的 43.4%，把 Rust / Kotlin / Python 挤下去。
+
+  2) xyblue135.github.io
+     Hugo 生成的博客静态页，5 个 html 共约 54.8 KB（index.html、archives/*/index.html 等）。
+
+  3) OBS_index_html
+     单页示例，仅 1 个 html（本期商单产品.html，1.1 KB）。
+
+  补充：D:\2document\obsidian_data 的笔记备份仓已设为私有，仓内 .html 数量为 0；
+  且 github-readme-stats 在无 token 时只统计公开仓库，
+  因此笔记与附件从未参与这张卡片的统计，与 HTML 占比无关。
+
+  维护提示：
+  - 新增或删除公开仓库后，需同步复核此处 exclude_repo 列表是否仍然合适；
+  - 若希望卡片里连 HTML 这一项都不出现，可在 top-langs 的 URL 末尾追加 &hide=html；
+  - 想治本可给 BilibiliDownloader 加 .gitattributes，
+    用 `ffmpeg-N-*/** linguist-vendored` 让该目录退出语言统计。
+-->
+
 擅长 Linux 服务器、云原生与自动化运维，能用 Python / Rust / Java 写工具服务，熟悉监控可观测性、AI 工程化与 Android 底层工具链，并有开源贡献经历。
 
 ## 🚀 项目
