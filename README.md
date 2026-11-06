@@ -68,3 +68,6 @@
 
 - **GitHub：** [@xyblue135](https://github.com/xyblue135)
 - **Email：** xyblue135@gmail.com
+
+
+说明:大部分项目由AI辅助完成 并非纯手动完成的
